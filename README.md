@@ -14,6 +14,8 @@ press windows key >>>>type services>>>>open services
 *open control panel>>>>programs>>>>turn windows features on and off>>>>uncheck internet explorer 11
 *Give ok>>>>>system restarts don't worry>>>>now open matlab paste this code run ..
 
+
+....."Detailed explaination in documents.zip above".....
 <<<<<<<<<<<<<<<<<<<<<<<<<<ENJOY THE OUTPUT >>>>>>>>>>>>>>>>>>>>
 
 
